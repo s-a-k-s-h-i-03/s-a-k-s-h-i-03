@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Tableau, SQL**
 
-- 👯 I’m looking to collaborate on **ndex of Economic Freedom Analysis**
+- 👯 I’m looking to collaborate on **Index of Economic Freedom Analysis**
 
 - 📫 How to reach me **sakshisinghdhundhel@gmial.com**
 
